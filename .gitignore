@@ -11,4 +11,3 @@ wheels/
 .env
 /test.py
 
-*.log
