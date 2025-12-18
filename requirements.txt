@@ -1,0 +1,6 @@
+langchain-openai
+mcp-use
+mcp[cli]
+python-dotenv
+Flask
+asgiref
